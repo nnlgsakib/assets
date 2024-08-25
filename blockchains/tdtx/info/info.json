@@ -1,0 +1,13 @@
+{
+    "name": "DTX Network Testnet",
+    "website": "",
+    "description": "",
+    "explorer": "https://testnet.dtxscan.com/",
+    "research": "",
+    "symbol": "tDTX",
+    "rpc_url": "https://testnet-rpc.dtxnetwork.xyz/",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": []
+}
