@@ -1,0 +1,11 @@
+{
+    "name": "Akinomi",
+    "symbol": "AKM",
+    "type": "DRC20",
+    "decimals": 18,
+    "explorer": "https://testnet.dtxscan.com/address/0x74F27Ac877fb6D788E4711343fe53B8732faD1A2",
+    "status": "active",
+    "id": "0x74F27Ac877fb6D788E4711343fe53B8732faD1A2",
+    "description": "",
+    "website": ""
+}
